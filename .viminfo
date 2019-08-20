@@ -12,9 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1564841930,,"wq"
+|2,0,1566305876,,"wq"
+:ew
+|2,0,1566305873,,"ew"
 :q
-|2,0,1564649435,,"q"
+|2,0,1566305750,,"q"
 :w
 |2,0,1552118647,,"w"
 :1
@@ -30,34 +32,146 @@
 
 # Registers:
 ""-	CHAR	0
-	e
-|3,1,36,0,1,0,1564841918,"e"
+	/
+|3,1,36,0,1,0,1566305762,"/"
 
 # File marks:
-'0  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,48,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
-'1  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,49,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
-'2  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,50,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
-'3  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,51,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
-'4  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,52,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
-'5  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,53,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
-'6  24  0  ~/.bash_profile
-|4,54,24,0,1564388402,"~/.bash_profile"
-'7  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,55,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
-'8  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,56,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
-'9  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,57,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
+'0  3  38  ~/git_repository/HOME/.gitmodules
+|4,48,3,38,1566305876,"~/git_repository/HOME/.gitmodules"
+'1  17  40  ~/git_repository/HOME/.git/config
+|4,49,17,40,1566305838,"~/git_repository/HOME/.git/config"
+'2  17  21  ~/git_repository/HOME/.git/config
+|4,50,17,21,1566305777,"~/git_repository/HOME/.git/config"
+'3  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,51,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+'4  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,52,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+'5  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,53,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+'6  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,54,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+'7  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,55,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+'8  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,56,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+'9  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,57,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  3  38  ~/git_repository/HOME/.gitmodules
+|4,39,3,38,1566305876,"~/git_repository/HOME/.gitmodules"
+-'  1  0  ~/git_repository/HOME/.gitmodules
+|4,39,1,0,1566305851,"~/git_repository/HOME/.gitmodules"
+-'  17  40  ~/git_repository/HOME/.git/config
+|4,39,17,40,1566305838,"~/git_repository/HOME/.git/config"
+-'  17  40  ~/git_repository/HOME/.git/config
+|4,39,17,40,1566305838,"~/git_repository/HOME/.git/config"
+-'  1  0  ~/git_repository/HOME/.git/config
+|4,39,1,0,1566305814,"~/git_repository/HOME/.git/config"
+-'  1  0  ~/git_repository/HOME/.git/config
+|4,39,1,0,1566305814,"~/git_repository/HOME/.git/config"
+-'  17  21  ~/git_repository/HOME/.git/config
+|4,39,17,21,1566305777,"~/git_repository/HOME/.git/config"
+-'  17  21  ~/git_repository/HOME/.git/config
+|4,39,17,21,1566305777,"~/git_repository/HOME/.git/config"
+-'  1  0  ~/git_repository/HOME/.git/config
+|4,39,1,0,1566305755,"~/git_repository/HOME/.git/config"
+-'  1  0  ~/git_repository/HOME/.git/config
+|4,39,1,0,1566305755,"~/git_repository/HOME/.git/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
 -'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
 |4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 -'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
 |4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 -'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
@@ -66,198 +180,104 @@
 |4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 -'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
 |4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  1  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,1,0,1564649431,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  24  0  ~/.bash_profile
-|4,39,24,0,1564388402,"~/.bash_profile"
--'  24  0  ~/.bash_profile
-|4,39,24,0,1564388402,"~/.bash_profile"
--'  24  0  ~/.bash_profile
-|4,39,24,0,1564388402,"~/.bash_profile"
--'  24  0  ~/.bash_profile
-|4,39,24,0,1564388402,"~/.bash_profile"
--'  24  0  ~/.bash_profile
-|4,39,24,0,1564388402,"~/.bash_profile"
--'  24  0  ~/.bash_profile
-|4,39,24,0,1564388402,"~/.bash_profile"
--'  24  0  ~/.bash_profile
-|4,39,24,0,1564388402,"~/.bash_profile"
--'  24  0  ~/.bash_profile
-|4,39,24,0,1564388402,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1564388374,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1564388374,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1564388374,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1564388374,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1564388374,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1564388374,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1564388374,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1564388374,"~/.bash_profile"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  3  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,3,0,1564038728,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1564038723,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  2  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,2,0,1563964742,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
--'  1  0  ~/git_repository/radio_english/.git/MERGE_MSG
-|4,39,1,0,1563964737,"~/git_repository/radio_english/.git/MERGE_MSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/git_repository/HOME/.gitmodules
+	*	1566305873	0
+	"	3	38
+	^	3	41
+	.	3	40
+	+	3	40
+
+> ~/git_repository/HOME/.git/config
+	*	1566305836	0
+	"	17	40
+	^	17	41
+	.	17	40
+	+	17	40
+
+> ~/git_repository/HOME/.git/modules/.emacs.d/config
+	*	1566305748	0
+	"	14	0
 
 > ~/git_repository/confdir/.git/COMMIT_EDITMSG
 	*	1564841926	0
