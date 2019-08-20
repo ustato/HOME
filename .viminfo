@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1566305876,,"wq"
+|2,0,1566311273,,"wq"
 :ew
 |2,0,1566305873,,"ew"
 :q
@@ -32,24 +32,24 @@
 
 # Registers:
 ""-	CHAR	0
-	/
-|3,1,36,0,1,0,1566305762,"/"
+	s
+|3,1,36,0,1,0,1566311265,"s"
 
 # File marks:
-'0  3  38  ~/git_repository/HOME/.gitmodules
-|4,48,3,38,1566305876,"~/git_repository/HOME/.gitmodules"
-'1  17  40  ~/git_repository/HOME/.git/config
-|4,49,17,40,1566305838,"~/git_repository/HOME/.git/config"
-'2  17  21  ~/git_repository/HOME/.git/config
-|4,50,17,21,1566305777,"~/git_repository/HOME/.git/config"
-'3  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
-|4,51,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
-'4  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,52,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
-'5  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,53,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
-'6  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,54,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+'0  3  9  ~/git_repository/HOME/.gitmodules
+|4,48,3,9,1566311273,"~/git_repository/HOME/.gitmodules"
+'1  3  38  ~/git_repository/HOME/.gitmodules
+|4,49,3,38,1566305876,"~/git_repository/HOME/.gitmodules"
+'2  17  40  ~/git_repository/HOME/.git/config
+|4,50,17,40,1566305838,"~/git_repository/HOME/.git/config"
+'3  17  21  ~/git_repository/HOME/.git/config
+|4,51,17,21,1566305777,"~/git_repository/HOME/.git/config"
+'4  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,52,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+'5  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,53,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+'6  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,54,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 '7  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
 |4,55,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 '8  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
@@ -58,6 +58,10 @@
 |4,57,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  3  9  ~/git_repository/HOME/.gitmodules
+|4,39,3,9,1566311273,"~/git_repository/HOME/.gitmodules"
+-'  1  0  ~/git_repository/HOME/.gitmodules
+|4,39,1,0,1566311259,"~/git_repository/HOME/.gitmodules"
 -'  3  38  ~/git_repository/HOME/.gitmodules
 |4,39,3,38,1566305876,"~/git_repository/HOME/.gitmodules"
 -'  1  0  ~/git_repository/HOME/.gitmodules
@@ -66,6 +70,14 @@
 |4,39,17,40,1566305838,"~/git_repository/HOME/.git/config"
 -'  17  40  ~/git_repository/HOME/.git/config
 |4,39,17,40,1566305838,"~/git_repository/HOME/.git/config"
+-'  17  40  ~/git_repository/HOME/.git/config
+|4,39,17,40,1566305838,"~/git_repository/HOME/.git/config"
+-'  17  40  ~/git_repository/HOME/.git/config
+|4,39,17,40,1566305838,"~/git_repository/HOME/.git/config"
+-'  1  0  ~/git_repository/HOME/.git/config
+|4,39,1,0,1566305814,"~/git_repository/HOME/.git/config"
+-'  1  0  ~/git_repository/HOME/.git/config
+|4,39,1,0,1566305814,"~/git_repository/HOME/.git/config"
 -'  1  0  ~/git_repository/HOME/.git/config
 |4,39,1,0,1566305814,"~/git_repository/HOME/.git/config"
 -'  1  0  ~/git_repository/HOME/.git/config
@@ -74,6 +86,14 @@
 |4,39,17,21,1566305777,"~/git_repository/HOME/.git/config"
 -'  17  21  ~/git_repository/HOME/.git/config
 |4,39,17,21,1566305777,"~/git_repository/HOME/.git/config"
+-'  17  21  ~/git_repository/HOME/.git/config
+|4,39,17,21,1566305777,"~/git_repository/HOME/.git/config"
+-'  17  21  ~/git_repository/HOME/.git/config
+|4,39,17,21,1566305777,"~/git_repository/HOME/.git/config"
+-'  1  0  ~/git_repository/HOME/.git/config
+|4,39,1,0,1566305755,"~/git_repository/HOME/.git/config"
+-'  1  0  ~/git_repository/HOME/.git/config
+|4,39,1,0,1566305755,"~/git_repository/HOME/.git/config"
 -'  1  0  ~/git_repository/HOME/.git/config
 |4,39,1,0,1566305755,"~/git_repository/HOME/.git/config"
 -'  1  0  ~/git_repository/HOME/.git/config
@@ -94,6 +114,38 @@
 |4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
 -'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
 |4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  14  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,14,0,1566305750,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
+-'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
+|4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
 -'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
 |4,39,1,0,1566305726,"~/git_repository/HOME/.git/modules/.emacs.d/config"
 -'  1  0  ~/git_repository/HOME/.git/modules/.emacs.d/config
@@ -142,6 +194,38 @@
 |4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 -'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
 |4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
+-'  1  24  ~/git_repository/confdir/.git/COMMIT_EDITMSG
+|4,39,1,24,1564841930,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 -'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
 |4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 -'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
@@ -174,99 +258,15 @@
 |4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 -'  1  2  ~/git_repository/confdir/.git/COMMIT_EDITMSG
 |4,39,1,2,1564649496,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
--'  2  0  ~/git_repository/confdir/.git/COMMIT_EDITMSG
-|4,39,2,0,1564649435,"~/git_repository/confdir/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/git_repository/HOME/.gitmodules
-	*	1566305873	0
-	"	3	38
-	^	3	41
-	.	3	40
-	+	3	40
+	*	1566311272	0
+	"	3	9
+	^	3	10
+	.	3	9
+	+	3	9
 
 > ~/git_repository/HOME/.git/config
 	*	1566305836	0
