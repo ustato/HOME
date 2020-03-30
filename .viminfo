@@ -14,10 +14,10 @@
 ~MSle0~/bin
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1585578916,,"q"
 :wq
 |2,0,1585356777,,"wq"
-:q
-|2,0,1583571485,,"q"
 :w
 |2,0,1577254073,,"w"
 :q!
@@ -116,36 +116,50 @@
 |3,0,36,0,1,0,1577254052,"c"
 
 # File marks:
-'0  2  8  ~/niconico-ranking.sh
-|4,48,2,8,1585356777,"~/niconico-ranking.sh"
-'1  5  118  ~/niconico-ranking.sh
-|4,49,5,118,1585356712,"~/niconico-ranking.sh"
+'0  6  12  ~/git_repository/ustato/HOME/.git/MERGE_MSG
+|4,48,6,12,1585578916,"~/git_repository/ustato/HOME/.git/MERGE_MSG"
+'1  2  8  ~/niconico-ranking.sh
+|4,49,2,8,1585356777,"~/niconico-ranking.sh"
 '2  5  118  ~/niconico-ranking.sh
 |4,50,5,118,1585356712,"~/niconico-ranking.sh"
-'3  8  0  ~/.bashrc
-|4,51,8,0,1583571485,"~/.bashrc"
-'4  1  0  ~/.bashr
-|4,52,1,0,1583571472,"~/.bashr"
-'5  71  0  ~/test.cpp
-|4,53,71,0,1578482421,"~/test.cpp"
-'6  1  0  ~/test.cpp
-|4,54,1,0,1578482383,"~/test.cpp"
+'3  5  118  ~/niconico-ranking.sh
+|4,51,5,118,1585356712,"~/niconico-ranking.sh"
+'4  8  0  ~/.bashrc
+|4,52,8,0,1583571485,"~/.bashrc"
+'5  1  0  ~/.bashr
+|4,53,1,0,1583571472,"~/.bashr"
+'6  71  0  ~/test.cpp
+|4,54,71,0,1578482421,"~/test.cpp"
 '7  1  0  ~/test.cpp
 |4,55,1,0,1578482383,"~/test.cpp"
-'8  71  0  ~/test.cpp
-|4,56,71,0,1578482377,"~/test.cpp"
+'8  1  0  ~/test.cpp
+|4,56,1,0,1578482383,"~/test.cpp"
 '9  71  0  ~/test.cpp
 |4,57,71,0,1578482377,"~/test.cpp"
 
 # Jumplist (newest first):
+-'  6  12  ~/git_repository/ustato/HOME/.git/MERGE_MSG
+|4,39,6,12,1585578916,"~/git_repository/ustato/HOME/.git/MERGE_MSG"
+-'  1  0  ~/git_repository/ustato/HOME/.git/MERGE_MSG
+|4,39,1,0,1585578826,"~/git_repository/ustato/HOME/.git/MERGE_MSG"
 -'  2  8  ~/niconico-ranking.sh
 |4,39,2,8,1585356777,"~/niconico-ranking.sh"
+-'  2  8  ~/niconico-ranking.sh
+|4,39,2,8,1585356777,"~/niconico-ranking.sh"
+-'  1  0  ~/niconico-ranking.sh
+|4,39,1,0,1585356756,"~/niconico-ranking.sh"
 -'  1  0  ~/niconico-ranking.sh
 |4,39,1,0,1585356756,"~/niconico-ranking.sh"
 -'  5  118  ~/niconico-ranking.sh
 |4,39,5,118,1585356712,"~/niconico-ranking.sh"
 -'  5  118  ~/niconico-ranking.sh
 |4,39,5,118,1585356712,"~/niconico-ranking.sh"
+-'  5  118  ~/niconico-ranking.sh
+|4,39,5,118,1585356712,"~/niconico-ranking.sh"
+-'  5  118  ~/niconico-ranking.sh
+|4,39,5,118,1585356712,"~/niconico-ranking.sh"
+-'  1  0  ~/niconico-ranking.sh
+|4,39,1,0,1585356694,"~/niconico-ranking.sh"
 -'  1  0  ~/niconico-ranking.sh
 |4,39,1,0,1585356694,"~/niconico-ranking.sh"
 -'  8  0  ~/.bashrc
@@ -156,6 +170,22 @@
 |4,39,8,0,1583571485,"~/.bashrc"
 -'  8  0  ~/.bashrc
 |4,39,8,0,1583571485,"~/.bashrc"
+-'  8  0  ~/.bashrc
+|4,39,8,0,1583571485,"~/.bashrc"
+-'  8  0  ~/.bashrc
+|4,39,8,0,1583571485,"~/.bashrc"
+-'  8  0  ~/.bashrc
+|4,39,8,0,1583571485,"~/.bashrc"
+-'  8  0  ~/.bashrc
+|4,39,8,0,1583571485,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1583571474,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1583571474,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1583571474,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1583571474,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1583571474,"~/.bashrc"
 -'  1  0  ~/.bashrc
@@ -180,6 +210,54 @@
 |4,39,1,0,1583571472,"~/.bashr"
 -'  1  0  ~/.bashr
 |4,39,1,0,1583571472,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1583571472,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1583571472,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1583571472,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1583571472,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1583571472,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1583571472,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1583571472,"~/.bashr"
+-'  1  0  ~/.bashr
+|4,39,1,0,1583571472,"~/.bashr"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
+-'  71  0  ~/test.cpp
+|4,39,71,0,1578482421,"~/test.cpp"
 -'  71  0  ~/test.cpp
 |4,39,71,0,1578482421,"~/test.cpp"
 -'  71  0  ~/test.cpp
@@ -245,101 +323,27 @@
 -'  1  0  ~/test.cpp
 |4,39,1,0,1578482392,"~/test.cpp"
 -'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
+|4,39,1,0,1578482392,"~/test.cpp"
 -'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
+|4,39,1,0,1578482392,"~/test.cpp"
 -'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
+|4,39,1,0,1578482392,"~/test.cpp"
 -'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
+|4,39,1,0,1578482392,"~/test.cpp"
 -'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
+|4,39,1,0,1578482392,"~/test.cpp"
 -'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
+|4,39,1,0,1578482392,"~/test.cpp"
 -'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
+|4,39,1,0,1578482392,"~/test.cpp"
 -'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  1  0  ~/test.cpp
-|4,39,1,0,1578482383,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
--'  71  0  ~/test.cpp
-|4,39,71,0,1578482377,"~/test.cpp"
+|4,39,1,0,1578482392,"~/test.cpp"
 
 # History of marks within files (newest to oldest):
+
+> ~/git_repository/ustato/HOME/.git/MERGE_MSG
+	*	1585578839	0
+	"	6	12
 
 > ~/niconico-ranking.sh
 	*	1585356776	0
